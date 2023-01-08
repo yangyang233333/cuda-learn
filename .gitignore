@@ -10,5 +10,9 @@ conv/build
 array_sum/cmake-build-debug
 array_sum/build
 
+# 4. array_sum2
+array_sum2/cmake-build-debug
+array_sum2/build
+
 # ide
 .idea
