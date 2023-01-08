@@ -14,5 +14,9 @@ array_sum/build
 array_sum2/cmake-build-debug
 array_sum2/build
 
+# 5. shared_memory_malloc
+shared_memory_malloc/cmake-build-debug
+shared_memory_malloc/build
+
 # ide
 .idea
