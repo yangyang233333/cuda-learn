@@ -13,6 +13,12 @@ __global__ void add(const int *a, const int *b, int *c, int len) {
 }
 
 int main() {
+    // 写一个向量加法
+    /*
+     * C = A + B
+     * 其中A、B、C均为长度为10的向量
+     *
+     * */
     int length = 10;
     int a[length], b[length], c[length];
     int *a_gpu, *b_gpu, *c_gpu;
