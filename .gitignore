@@ -1,5 +1,14 @@
 # 1. array_add
-arrary_add/cmake-build-debug
-arrary_add/build
+array_add/cmake-build-debug
+array_add/build
 
+# 2. conv
+conv/cmake-build-debug
+conv/build
+
+# 3. array_sum
+array_sum/cmake-build-debug
+array_sum/build
+
+# ide
 .idea
