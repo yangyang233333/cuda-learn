@@ -1,30 +1,23 @@
-# 1. array_add
-array_add/cmake-build-debug
-array_add/build
 
-# 2. conv
-conv/cmake-build-debug
-conv/build
 
-# 3. array_sum
-array_sum/cmake-build-debug
-array_sum/build
+# 1. cuda-basic-examples
+cuda-basic-examples/array_add/cmake-build-debug
+cuda-basic-examples/array_add/build
+cuda-basic-examples/array_sum/cmake-build-debug
+cuda-basic-examples/array_sum/build
+cuda-basic-examples/array_sum2/cmake-build-debug
+cuda-basic-examples/array_sum2/build
+cuda-basic-examples/shared_memory_malloc/cmake-build-debug
+cuda-basic-examples/shared_memory_malloc/build
+cuda-basic-examples/calc_pi/cmake-build-debug
+cuda-basic-examples/calc_pi/build
+cuda-basic-examples/calc_product/cmake-build-debug
+cuda-basic-examples/calc_product/build
 
-# 4. array_sum2
-array_sum2/cmake-build-debug
-array_sum2/build
-
-# 5. shared_memory_malloc
-shared_memory_malloc/cmake-build-debug
-shared_memory_malloc/build
-
-# 6. calc_pi
-calc_pi/cmake-build-debug
-calc_pi/build
-
-# 7. calc_product
-calc_product/cmake-build-debug
-calc_product/build
+# 2. cuda-from-scratch-examples
 
 # ide
 .idea
+
+# others
+calc_product/*
